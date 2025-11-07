@@ -4,7 +4,9 @@ A powerful and safe C++ type conversion library providing cross-type assignment 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Header-only](https://img.shields.io/badge/Header--only-Yes-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
+
 If you need type conversion but don't want to write it, this library might help you!
+
 A collection of type conversion functions for C++ that handles common scenarios:
 
 - Basic type conversions with error checking
